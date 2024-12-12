@@ -20,7 +20,7 @@ set(SQLTOASTER_HEADERS
     include/get_tbname.h
 )
 
-#本项目头文件路径 E:/CAE/sqltoaster/include
+#本项目头文件路径
 include_directories(include)
 
 #设置依赖库头文件路径，让编译器找到依赖库头文件
