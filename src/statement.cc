@@ -6,10 +6,10 @@
 
 #include <sstream>
 
-#include <sqltoast/print.h>
+#include <print.h>
 
-#include "../node.h"
-#include "../fill.h"
+#include "node.h"
+#include "fill.h"
 
 namespace sqltoaster {
 

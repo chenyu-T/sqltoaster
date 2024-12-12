@@ -4,7 +4,7 @@
  * See the COPYING file in the root project directory for full text.
  */
 
-#include <sqltoast/print.h>
+#include <print.h>
 
 #include "node.h"
 #include "fill.h"

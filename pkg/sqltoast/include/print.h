@@ -7,7 +7,7 @@
 #ifndef SQLTOASTER_PRINT_H
 #define SQLTOASTER_PRINT_H
 
-#include "sqltoast/sqltoast.h"
+#include "sqltoast.h"
 
 namespace sqltoast {
 
